@@ -1,0 +1,2 @@
+# DermaBot-Revolutionizing-Dermatology-with-AI-Powered-Skin-Diagnosis-ChatBot-Assistance
+DermaBot , an AI powered Dermatology Diagnostic Assistant combines BioBERT , ResNet-50 &amp; GPT-2 for accurate skin diagnoses . Features include semantic search , image processing , OCR , multilingual support &amp; gamification . Ensures privacy , compliance &amp; user friendly experience , revolutionizing dermatological care for professionals &amp; patients .
